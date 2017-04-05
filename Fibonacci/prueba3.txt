@@ -1,0 +1,15 @@
+insertar
+50
+10 12 50 45 65 3 15 52 24 32 36 45 49 78 94 64 67 48 46 20 21 29 39 84 87 125 254 264 120 100 264 231 212 345 350 390 375 364 164 200 314 325 394 401 451 540 246 234 256 234 123 234 435 354
+borrar minimo
+minimo
+borrar minimo
+minimo
+borrar minimo
+minimo
+decrecer clave
+9
+minimo
+decrecer clave
+4
+minimo

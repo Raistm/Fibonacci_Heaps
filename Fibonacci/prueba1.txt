@@ -1,0 +1,15 @@
+insertar
+5
+1 2 3 4 5
+borrar minimo
+minimo
+insertar
+5
+1 7 8 9 6
+borrar minimo
+minimo
+decrecer clave
+1
+minimo
+decrecer clave
+3

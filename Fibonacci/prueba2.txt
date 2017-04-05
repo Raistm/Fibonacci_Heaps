@@ -1,0 +1,25 @@
+insertar
+9
+21 4 7 9 1 19 10 13 17
+borrar minimo
+minimo
+insertar
+5 
+3 1 8 6 12
+borrar minimo
+minimo
+insertar
+3
+22 2 1
+borrar minimo
+minimo
+insertar
+7
+50 32 40 25 30 41 1
+borrar minimo
+minimo
+decrecer clave
+3
+decrecer clave
+1
+minimo
